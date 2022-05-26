@@ -17,7 +17,7 @@ maintainers:
 name: rss-bridge
 sources:
 - https://github.com/RSS-Bridge/rss-bridge
-version: 1.0.9
+version: 1.0.10
 annotations:
   truecharts.org/catagories: |
     - media

@@ -23,7 +23,7 @@ name: typecho
 sources:
 - https://github.com/typecho/typecho
 - https://hub.docker.com/r/joyqi/typecho
-version: 1.0.9
+version: 1.0.10
 annotations:
   truecharts.org/catagories: |
     - hosting

@@ -23,7 +23,7 @@ sources:
 - http://piwigo.org/
 - https://github.com/linuxserver/docker-piwigo
 type: application
-version: 2.0.18
+version: 2.0.19
 annotations:
   truecharts.org/catagories: |
     - media

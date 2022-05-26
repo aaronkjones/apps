@@ -22,7 +22,7 @@ name: tvheadend
 sources:
 - https://github.com/tvheadend/tvheadend
 type: application
-version: 11.0.18
+version: 11.0.19
 annotations:
   truecharts.org/catagories: |
     - media

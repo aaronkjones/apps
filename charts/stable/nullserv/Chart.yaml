@@ -17,7 +17,7 @@ maintainers:
 name: nullserv
 sources:
 - https://github.com/bmrzycki/nullserv
-version: 5.0.18
+version: 5.0.19
 annotations:
   truecharts.org/catagories: |
     - media

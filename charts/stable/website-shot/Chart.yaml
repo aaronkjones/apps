@@ -17,7 +17,7 @@ maintainers:
 name: website-shot
 sources:
 - https://github.com/Flowko/website-shot
-version: 1.0.8
+version: 1.0.9
 annotations:
   truecharts.org/catagories: |
     - media
