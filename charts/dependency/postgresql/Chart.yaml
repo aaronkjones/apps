@@ -22,7 +22,7 @@ name: postgresql
 sources:
 - https://www.postgresql.org/
 type: application
-version: 7.0.82
+version: 7.0.83
 annotations:
   truecharts.org/catagories: |
     - database
