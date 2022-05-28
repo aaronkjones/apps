@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/cyberchef
-  tag: v9.37.3@sha256:14bd32ffbcbe1eaf992e5a7853e3fa43f89f3f1b5d88979c3b6248f60033f4ec
+  tag: v9.37.3@sha256:5a5771581610d248be5327b950b34c2a9a76b98949595e5f51169b8008ba7a19
   pullPolicy: IfNotPresent
 
 securityContext:

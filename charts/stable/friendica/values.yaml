@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/friendica
   pullPolicy: IfNotPresent
-  tag: v2022.03@sha256:dfaf69dec339491e7b2fab7d1d4b44339525cc6d2a8e65e307e76a5cfa22655c
+  tag: v2022.03@sha256:04db983ae0d13d30e8051cae57526384e9ed2dec852932ca3870fee213d31b96
 
 securityContext:
   runAsNonRoot: false

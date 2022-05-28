@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/truecharts/redis
   pullPolicy: IfNotPresent
-  tag: v6.2.7@sha256:c7fb81736a5384d6cf859519e5d8dbf6234f8fa3cba749e070ead34511cd9472
+  tag: v6.2.7@sha256:15e6e612a97bea7073963aaa05655941e8ee87c07f8f154d0cef10147ff6d1a5
 
 controller:
   # -- Set the controller type.

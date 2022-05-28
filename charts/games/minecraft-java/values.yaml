@@ -4,7 +4,7 @@ image:
   pullPolicy: Always
 j11Image:
   repository: tccr.io/truecharts/minecraft-java11
-  tag: latest@sha256:bf7c96b4c332803e6b06d0bcd2684ff1688f71ee704cfca9078ee5af469f1ed8
+  tag: latest@sha256:1681da78cc0e3f0be75cf8b895f246ae4fadf3915a6c66c4ec0fe9ec82b42dc9
   pullPolicy: Always
 j11j9Image:
   repository: tccr.io/truecharts/minecraft-java11-openj9
@@ -12,11 +12,11 @@ j11j9Image:
   pullPolicy: Always
 j8Image:
   repository: tccr.io/truecharts/minecraft-java8-openj9
-  tag: latest@sha256:d7cc689aaa35a25f0be222c37849cfb38e4782938e67494ab639b211d6fd3338
+  tag: latest@sha256:c226ff3ca8739dda03eda87a100287a36496507474916168f81d21ec64a598a9
   pullPolicy: Always
 j8j9Image:
   repository: tccr.io/truecharts/minecraft-java8-openj9
-  tag: latest@sha256:d7cc689aaa35a25f0be222c37849cfb38e4782938e67494ab639b211d6fd3338
+  tag: latest@sha256:c226ff3ca8739dda03eda87a100287a36496507474916168f81d21ec64a598a9
   pullPolicy: Always
 
 portal:

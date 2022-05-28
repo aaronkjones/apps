@@ -10,7 +10,7 @@ frontendImage:
 
 nginxImage:
   repository: tccr.io/truecharts/nginx
-  tag: v1.21.6@sha256:811dd11148104d62748d9d9cd9fe2698352ddd051bf080a8c4ca7cdf9aa53eb8
+  tag: v1.22.0@sha256:ada53ec1724e7d50dd5f62e572315668fa5370444ea185d62559f5165f738a29
 
 securityContext:
   readOnlyRootFilesystem: false
