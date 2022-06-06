@@ -1,8 +1,7 @@
 image:
-  repository: tccr.io/truecharts/node-red
+  repository: docker.io/aaronkjones/node-red-custom
   pullPolicy: IfNotPresent
-  tag: v2.2.2@sha256:7c181ad1464aebe7e41401acbbb024a3dd1505ce687b0b049fc52a6affe98e54
-
+  tag: latest
 # See more environment varaibles in the node-red documentation
 # https://nodered.org/docs/getting-started/docker
 env: {}
